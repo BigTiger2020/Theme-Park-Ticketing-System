@@ -8,9 +8,9 @@
 
 * Vulnerable file: view_user.php  
   
-![image]()  
+![image](https://github.com/BigTiger2020/Theme-Park-Ticketing-System/blob/main/view_user.png)  
 
 * Sql Injection :  
 
-![image]()
+![image](https://github.com/BigTiger2020/Theme-Park-Ticketing-System/blob/main/sql.png)
 
